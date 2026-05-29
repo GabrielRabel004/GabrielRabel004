@@ -19,13 +19,6 @@
 </div>
 
 
-## Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRabel004&theme=tokyonight&hide_border=true"/>
-</div>
-
-
 ## Contato
 
 <div align="center">
