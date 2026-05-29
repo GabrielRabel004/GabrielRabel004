@@ -1,15 +1,15 @@
 # Gabriel Rabelo
  - console.log("Hello World")
 
--🎓 Estudante de Ciência da Computação
--🔐 Interessado em Backend & Cibersegurança
--☕ Desenvolvendo aplicações com Java
--🧠 Explorando lógica, POO, APIs e bancos de dados
--🚀 Construindo projetos para evolução constante
+ - 🎓 Estudante de Ciência da Computação
+ - 🔐 Interessado em Backend & Cibersegurança
+ - ☕ Desenvolvendo aplicações com Java
+ - 🧠 Explorando lógica, POO, APIs e bancos de dados
+ - 🚀 Construindo projetos para evolução constante
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -21,26 +21,28 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielRabel004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79ff97&text_color=c9d1d9"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRabel004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRabel004&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🌎 Onde me encontrar
+## Contato
 
-<div>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<div align="center">
 
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/gabriel20er?igsh=MXY5bXp6aGo0OXQ1cA==" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </div>
