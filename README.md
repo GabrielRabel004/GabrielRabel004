@@ -7,7 +7,6 @@
  - 🧠 Explorando lógica, POO, APIs e bancos de dados
  - 🚀 Construindo projetos para evolução constante
 
----
 
 ## Tecnologias e Ferramentas
 
@@ -19,7 +18,6 @@
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
----
 
 ## Estatísticas
 
@@ -27,7 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRabel004&theme=tokyonight&hide_border=true"/>
 </div>
 
----
 
 ## Contato
 
